@@ -1,2 +1,2 @@
-
+https://github.com/SilasEmma/FlyRankAIInternship/blob/main/notebooks/01_first_look_and_discovery.ipynb
 https://github.com/SilasEmma/FlyRankAIInternship/blob/main/notebooks/02_your_first_readable_model.ipynb
